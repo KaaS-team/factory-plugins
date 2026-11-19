@@ -2,7 +2,7 @@
 
 factory-plugins is archived. This table lists every feature the repo ever offered and where the factory covers it.
 
-The factory is KaaS-team/KaaS-factory, branch `next` (commit `ad206c6`). It becomes KaaS-team/factory. All paths below are paths in that repo.
+The factory is KaaS-team/factory, branch `next` (commit `ad206c6`). It becomes KaaS-team/factory. All paths below are paths in that repo.
 
 Verdicts: **covered** (a path that exists on `next`), **dropped** (on purpose), **missing** (a ticket is open).
 
